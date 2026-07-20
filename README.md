@@ -6,8 +6,7 @@ recebe uma pontuação de maturidade (0-100), individual e agregada.
 
 Desenvolvida com **Spec Driven Development**: toda regra de negócio
 está documentada em [`specs/`](./specs) (requisitos + cenários Gherkin)
-antes de existir em código, cada uma com teste automatizado. Hoje: 30
-testes passando.
+antes de existir em código, cada uma com teste automatizado. 
 
 ## O que a aplicação faz
 
